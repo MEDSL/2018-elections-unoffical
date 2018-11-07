@@ -33,6 +33,13 @@ The data file `election-context-2018.csv` contains demographic and past election
 
 ----------------
 
+### repgov14, demgov14, othergov14
+- **Description**: governor candidate vote totals in 2014 (republican, democrat, and non-major party)
+- **Year/s**: 2014
+- **Source**: [Cengiz Zopluoglu](https://sites.education.miami.edu/zopluoglu/2018/11/06/scraping-data-for-2014-gubernatorial-elections/)
+
+----------------
+
 ### total\_population
 - **Description**: total population
 - **Year/s**: 2012-2016 (ACS 5-Year Estimates)
