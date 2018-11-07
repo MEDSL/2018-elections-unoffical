@@ -208,7 +208,8 @@ Unofficial Results URL: https://www.ri.gov/election/results/2018/general_electio
 * Unofficial Results URL: http://results.enr.clarityelections.com/WV/92360/Web02-state.216038/#/
 * County-level results
 ### Wisconsin (WI)
-Unofficial Results URL:  Currently unavailable (11/6/18 11:07 PM)
+* Unofficial Results URL:  Currently unavailable (11/6/18 11:07 PM)
 
 ### Wyoming (WY)
-Unofficial Results URL: http://soswy.state.wy.us/Elections/Docs/2018/2018GeneralResults.aspx
+* Unofficial Results URL: http://soswy.state.wy.us/Elections/Docs/2018/2018GeneralResults.aspx
+* Results to come.
