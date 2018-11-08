@@ -10,6 +10,7 @@ Results posted in MEDSL/2018-elections/raw-results
 ### Alaska (AK)
 * Unofficial Results URL:  http://results.elections.alaska.gov/data/results.txt
 * Results available
+
 ### Arizona (AZ)
 * Unofficial Results URL: https://results.arizona.vote/#/featured/4/0
 * Results to come. 
@@ -17,11 +18,14 @@ Results posted in MEDSL/2018-elections/raw-results
 
 ### Arkansas (AR)
 * Unofficial Results URL: http://results.enr.clarityelections.com/AR/92174/Web02-state.216038/
+* county-level
 
 ### California (CA)
 * Unofficial Results URL: https://vote.sos.ca.gov/
-* Results to come. 
-* Scraper to come. 
+* Results to come.
+* Scraper to come.
+
+* Scraper currently in Python Notebook form. 
 ### Colorado (CO)
  * Unofficial Results URL: https://results.enr.clarityelections.com/CO/91808/Web02-state.216038/#/
  * county-level results
@@ -122,8 +126,9 @@ Unofficial Results URL: https://electionresults.sos.ne.gov/
 * Scraper to come. 
 
 ### Nevada (NV)
-Unofficial Results URL: http://www.silverstateelection.com/ 
-No results currently available (11/6/18 10:37)
+* Unofficial Results URL: http://www.silverstateelection.com/ 
+* county-level results
+* scraper available. 
 
 ### New Hampshire (NH)
 * Unofficial Results URL: Currently unavailable (11/6/18 10:41 PM EST)
