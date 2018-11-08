@@ -22,8 +22,8 @@ Results posted in MEDSL/2018-elections/raw-results
 
 ### California (CA)
 * Unofficial Results URL: https://vote.sos.ca.gov/
-* Results to come.
-* Scraper to come.
+* County-level
+* scraper available
 
 * Scraper currently in Python Notebook form. 
 ### Colorado (CO)
