@@ -13,8 +13,8 @@ Results posted in MEDSL/2018-elections/raw-results
 
 ### Arizona (AZ)
 * Unofficial Results URL: https://results.arizona.vote/#/featured/4/0
-* Results to come. 
-* Scraper to come. 
+* county-level
+* Scraper available 
 
 ### Arkansas (AR)
 * Unofficial Results URL: http://results.enr.clarityelections.com/AR/92174/Web02-state.216038/
@@ -24,8 +24,8 @@ Results posted in MEDSL/2018-elections/raw-results
 * Unofficial Results URL: https://vote.sos.ca.gov/
 * County-level
 * scraper available
-
 * Scraper currently in Python Notebook form. 
+
 ### Colorado (CO)
  * Unofficial Results URL: https://results.enr.clarityelections.com/CO/91808/Web02-state.216038/#/
  * county-level results
