@@ -138,7 +138,8 @@ Unofficial Results URL: https://electionresults.sos.ne.gov/
 
 ### New Mexico (NM)
 * Unofficial Results URL: http://electionresults.sos.state.nm.us/
-* Results to come (precinct-level)
+* County-level results
+* Scraper available in notebook form
 
 ### New York (NY)
 * Unofficial Results URL: https://nyenr.elections.ny.gov/
